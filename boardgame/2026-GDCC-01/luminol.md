@@ -1,5 +1,5 @@
 # CỤC CẢNH SÁT ĐIỀU TRA
-## VĂN BẢN 5 (SỬA ĐỔI CHUẨN LOGIC): BIÊN BẢN KHÁM NGHIỆM HÓA KỸ THUẬT VÀ DẤU VẾT ĐƯỜNG VÂN
+## VĂN BẢN 5: BIÊN BẢN KHÁM NGHIỆM HÓA KỸ THUẬT VÀ DẤU VẾT ĐƯỜNG VÂN
 
 ---
 
@@ -7,7 +7,7 @@
 
 ### KẾT QUẢ GHI NHẬN:
 
-1.  **Tại khu vực bàn phím đàn piano (Tầng 2):**
+1.  **Tại khu vực phòng làm việc bàn phím đàn piano (Tầng 2):**
     *   Bề mặt các phím Rê (D), La (A), Si/Ti (T) ghi nhận có vệt mồ hôi và tế bào biểu bì của nạn nhân bám rất đậm với lực ấn cực mạnh. Không phát hiện dư lượng độc chất bám ngoài phím.
     *   👉 *Đánh giá:* Phù hợp với việc nạn nhân dùng chút sức tàn cuối cùng để ấn phím cầu cứu trước khi hệ thần kinh bị tê liệt.
 
